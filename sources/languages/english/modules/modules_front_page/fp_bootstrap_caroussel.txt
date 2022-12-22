@@ -1,0 +1,2 @@
+module_bootstrap_caroussel_caroussel_title = Do you want add a Boostrap Carousel Banners ?
+module_bootstrap_caroussel_caroussel_description = Adds a bootstrap carousel with banner images set from Banner Manager.
